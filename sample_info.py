@@ -1,9 +1,9 @@
 # Mandatory variables for the bot to start
-API_ID = 1234
-API_HASH = 'bf05f7a4b4c89c44be6'
-BOT_TOKEN = '5517520189:AAFeexxxxxxxxxxxxxxxxx'
-DROPLINK_API = '1234'
-MDISK_API = 'abcd35'
+API_ID = 27962408
+API_HASH = '31b63794f777a53d316196671310c947'
+BOT_TOKEN = '5908573063:AAEmgaAPTAQuxKpEP5JVO-X2B8tWxskz2o8'
+DROPLINK_API = '5411372118'
+MDISK_API = 'qkCcEKPCRz6JR6TGTqD3'
 ADMINS = [1861030649, 1798040070]
 DATABASE_NAME = 'MdiskConvertor'
 DATABASE_URL = 'mongodb+srv://username:pwd@cluster0.xxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
