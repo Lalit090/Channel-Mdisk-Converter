@@ -3,7 +3,9 @@ API_ID = 27962408
 API_HASH = '31b63794f777a53d316196671310c947'
 BOT_TOKEN = '5908573063:AAEmgaAPTAQuxKpEP5JVO-X2B8tWxskz2o8'
 DROPLINK_API = '1234'
-MDISK_API = 'abcd35'
+MDISK_API = 'qkCcEKPCRz6JR6TGTqD3'
+
+
 ADMINS = [-1001883099272,-1001883099272]
 DATABASE_NAME = 'MdiskConvertor'
 DATABASE_URL = 'mongodb+srv://username:pwd@cluster0.xxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
