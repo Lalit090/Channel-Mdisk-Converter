@@ -8,8 +8,7 @@ MDISK_API = 'qkCcEKPCRz6JR6TGTqD3'
 
 ADMINS = [-1001883099272,-1001883099272]
 DATABASE_NAME = 'MdiskConvertor'
-DATABASE_URL = 'mongodb+srv://username:pwd@cluster0.xxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
-
+DATABASE_URL = 'http://ac-2jltdyh-shard-00-01.szfkpqd.mongodb.net:27017'
 
 
 #  Optionnal variables
