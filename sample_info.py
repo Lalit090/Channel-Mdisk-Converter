@@ -8,7 +8,7 @@ MDISK_API = 'qkCcEKPCRz6JR6TGTqD3'
 
 ADMINS = [-1001883099272,-1001883099272]
 DATABASE_NAME = 'MdiskConvertor'
-DATABASE_URL = 'http://ac-2jltdyh-shard-00-01.szfkpqd.mongodb.net:27017'
+DATABASE_URL = ' mongodb://Lalit905016:Lalit9050@ac-2jltdyh-shard-00-00.szfkpqd.mongodb.net:27017,ac-2jltdyh-shard-00-01.szfkpqd.mongodb.net:27017,ac-2jltdyh-shard-00-02.szfkpqd.mongodb.net:27017/?ssl=true&replicaSet=atlas-q6fdpn-shard-0&authSource=admin&retryWrites=true&w=majority '
 
 
 #  Optionnal variables
