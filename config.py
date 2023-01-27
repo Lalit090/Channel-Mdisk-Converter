@@ -16,7 +16,7 @@ DROPLINK_API = os.environ.get("DROPLINK_API")
 MDISK_API = os.environ.get("MDISK_API", "qkCcEKPCRz6JR6TGTqD)
 ADMINS = list(int(i.strip()) for i in os.environ.get("ADMINS").split(",")) if os.environ.get("-1001883099272") else []
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "MdiskConvertorBotpro")
-DATABASE_URL = os.environ.get(" mongodb://Lalit905016:<password>@ac-2jltdyh-shard-00-00.szfkpqd.mongodb.net:27017,ac-2jltdyh-shard-00-01.szfkpqd.mongodb.net:27017,ac-2jltdyh-shard-00-02.szfkpqd.mongodb.net:27017/?ssl=true&replicaSet=atlas-q6fdpn-shard-0&authSource=admin&retryWrites=true&w=majority")
+DATABASE_URL = os.environ.get("mongodb://Lalit905016:Lalit9050@ac-2jltdyh-shard-00-00.szfkpqd.mongodb.net:27017,ac-2jltdyh-shard-00-01.szfkpqd.mongodb.net:27017,ac-2jltdyh-shard-00-02.szfkpqd.mongodb.net:27017/?ssl=true&replicaSet=atlas-q6fdpn-shard-0&authSource=admin&retryWrites=true&w=majority ")
 WEBSITE = os.environ.get('WEBSITE')
 
 #  Optionnal variables
