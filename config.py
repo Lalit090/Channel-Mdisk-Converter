@@ -9,14 +9,14 @@ def is_enabled(value, default):
         return default
 
 # Mandatory variables for the bot to start
-API_ID = int(os.environ.get("API_ID", "12124605"))
-API_HASH = os.environ.get("API_HASH", "5cf3577d85fd02286535ec2296934287")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5574279873:AAHb22nEOdC2dbwY_9GpU838frtUAvyFoQI")
+API_ID = int(os.environ.get("API_ID", "27962408")
+API_HASH = os.environ.get("API_HASH", "31b63794f777a53d316196671310c947")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5871910676:AAFDYLNjzoupZybaFmhzpAs2dhKLraCFfNI")
 DROPLINK_API = os.environ.get("DROPLINK_API")
-MDISK_API = os.environ.get("MDISK_API", "Qu7jX9V0Sn3q1JHdxjPp")
-ADMINS = list(int(i.strip()) for i in os.environ.get("ADMINS").split(",")) if os.environ.get("ADMINS") else []
+MDISK_API = os.environ.get("MDISK_API", "qkCcEKPCRz6JR6TGTqD3")
+ADMINS = list(int(i.strip()) for i in os.environ.get("ADMINS").split(",")) if os.environ.get("-1001883099272") else []
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "MdiskConvertorBotpro")
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Lalit905016.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
 WEBSITE = os.environ.get('WEBSITE')
 
 #  Optionnal variables
